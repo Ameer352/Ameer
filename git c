@@ -1,0 +1,10 @@
+GIT HUB    -COMMANDS
+git clone URL   _for clone project
+git remote -v   _for check project link 
+git remote add origin url  for adding url to project 
+git status  _ to check the status of the project
+git add --all
+git commit -m "wrok" 
+git branch
+git push origin 
+git checkout -b master
